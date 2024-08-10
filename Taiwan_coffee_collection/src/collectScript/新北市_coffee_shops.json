@@ -1,0 +1,914 @@
+[
+  {
+    "name": "調進所咖啡豆販售",
+    "address": "吳鳳路50巷42弄20號",
+    "location": {
+      "lat": 25.0297741,
+      "lng": 121.4704528
+    }
+  },
+  {
+    "name": "新北市土城（福咖啡豆專賣店）",
+    "address": "明德路二段112號",
+    "location": {
+      "lat": 24.9843141,
+      "lng": 121.4449884
+    }
+  },
+  {
+    "name": "福璟鮮烘咖啡店",
+    "address": "景平路598號",
+    "location": {
+      "lat": 24.9964516,
+      "lng": 121.501046
+    }
+  },
+  {
+    "name": "達文西咖啡 - 烘焙廠 咖啡教室",
+    "address": "立德街321號",
+    "location": {
+      "lat": 25.0104311,
+      "lng": 121.482262
+    }
+  },
+  {
+    "name": "VIP Café 咖啡工坊",
+    "address": "南雅東路8號",
+    "location": {
+      "lat": 25.0060249,
+      "lng": 121.4551555
+    }
+  },
+  {
+    "name": "LAVA COFFEE ROASTERS 精品咖啡專賣店",
+    "address": "福美街172巷62號",
+    "location": {
+      "lat": 25.059515,
+      "lng": 121.462155
+    }
+  },
+  {
+    "name": "細胞咖啡",
+    "address": "慶利街18號之3",
+    "location": {
+      "lat": 24.9737649,
+      "lng": 121.439627
+    }
+  },
+  {
+    "name": "娂豆精品咖啡工作室",
+    "address": "中正路117巷22號5樓",
+    "location": {
+      "lat": 24.970412,
+      "lng": 121.5413617
+    }
+  },
+  {
+    "name": "LAOO COFFEE老窩咖啡迪卡儂中和店",
+    "address": "中山路二段228號2樓",
+    "location": {
+      "lat": 25.0029495,
+      "lng": 121.4987411
+    }
+  },
+  {
+    "name": "卡比歐咖啡豆專賣店 Coffeol Coffee Roaster",
+    "address": "重新路一段84號",
+    "location": {
+      "lat": 25.0634167,
+      "lng": 121.5016689
+    }
+  },
+  {
+    "name": "瓦莎咖啡器具專賣 Wassup Coffee Equipment",
+    "address": "連城路333號",
+    "location": {
+      "lat": 24.9960866,
+      "lng": 121.4887233
+    }
+  },
+  {
+    "name": "隅生咖啡工作室 Katasumi Cafe |單品咖啡販售•濾掛禮盒•手沖咖啡•司康專賣|手作甜點不定時更新|追蹤IG獲得更多資訊，請查看商家檔案的最新異動",
+    "address": "中正路250巷40號1樓",
+    "location": {
+      "lat": 25.0195013,
+      "lng": 121.4571144
+    }
+  },
+  {
+    "name": "三峽Team Coffee 咖啡。停！",
+    "address": "仁愛街2號",
+    "location": {
+      "lat": 24.9340752,
+      "lng": 121.3683803
+    }
+  },
+  {
+    "name": "生產者咖啡 ｜無負擔咖啡｜咖啡豆專賣｜咖啡掛耳包專賣｜職人甜點",
+    "address": "忠孝路275號",
+    "location": {
+      "lat": 25.0031238,
+      "lng": 121.4674285
+    }
+  },
+  {
+    "name": "獨角獸森林咖啡館Unicorn forest cafe",
+    "address": "光華街20號",
+    "location": {
+      "lat": 25.0118961,
+      "lng": 121.4541569
+    }
+  },
+  {
+    "name": "老柴咖啡館｜精品咖啡豆專賣ｘ自家烘焙",
+    "address": "大觀路113號",
+    "location": {
+      "lat": 24.9453533,
+      "lng": 121.3745846
+    }
+  },
+  {
+    "name": "咖啡瑗 Coffee yuàn",
+    "address": "復興路77號1樓",
+    "location": {
+      "lat": 24.9927284,
+      "lng": 121.4219485
+    }
+  },
+  {
+    "name": "Homely Coffee - 自家烘焙咖啡 - 線上訂購",
+    "address": "水源街32巷25號3F",
+    "location": {
+      "lat": 24.980966,
+      "lng": 121.425347
+    }
+  },
+  {
+    "name": "豆工場精品咖啡館",
+    "address": "中和路400巷31號",
+    "location": {
+      "lat": 25.0020138,
+      "lng": 121.5121561
+    }
+  },
+  {
+    "name": "夏班納咖啡館",
+    "address": "民樂街37巷2號",
+    "location": {
+      "lat": 25.0006364,
+      "lng": 121.5276768
+    }
+  },
+  {
+    "name": "咖啡錁 Coffee Ké Studio（自家烘焙咖啡工作室）",
+    "address": "華江一路208號一樓",
+    "location": {
+      "lat": 25.0353374,
+      "lng": 121.4737212
+    }
+  },
+  {
+    "name": "樂芙達咖啡 Lapuda Coffee 板橋咖啡豆/自家烘焙咖啡/板橋咖啡器具/板橋咖啡廳/板橋茶葉/板橋水果乾",
+    "address": "重慶路199號",
+    "location": {
+      "lat": 25.0018707,
+      "lng": 121.4629573
+    }
+  },
+  {
+    "name": "探尋咖啡Touch Café（新店店）",
+    "address": "永安街34巷9號",
+    "location": {
+      "lat": 24.9861796,
+      "lng": 121.5181129
+    }
+  },
+  {
+    "name": "泡咖啡精品咖啡館 PowerCoffee |三重手沖咖啡推薦|SCA國際咖啡老師|國際烘豆師|咖啡豆|金杯大師|永生花束|場地租借|空瑜|舞蹈教室|生日抓週|拉花體驗",
+    "address": "重陽路四段61號",
+    "location": {
+      "lat": 25.0703305,
+      "lng": 121.4922488
+    }
+  },
+  {
+    "name": "咖啡·重開機｜Coffee Reboot Roaster",
+    "address": "文聖街101巷2號",
+    "location": {
+      "lat": 25.0295479,
+      "lng": 121.4779725
+    }
+  },
+  {
+    "name": "波波咖啡 Bo Coffee Roaster（波豆商行）",
+    "address": "車子路139號",
+    "location": {
+      "lat": 24.9477379,
+      "lng": 121.5051141
+    }
+  },
+  {
+    "name": "Tower Cafe 鐵塔咖啡（深夜/文青/寵物友善）",
+    "address": "福和路57巷2-1號",
+    "location": {
+      "lat": 25.0076666,
+      "lng": 121.5229585
+    }
+  },
+  {
+    "name": "墨啡商行",
+    "address": "寶橋路1巷2號",
+    "location": {
+      "lat": 24.9739719,
+      "lng": 121.5434362
+    }
+  },
+  {
+    "name": "羽兒咖啡館",
+    "address": "萬板路118號",
+    "location": {
+      "lat": 25.0231846,
+      "lng": 121.4748749
+    }
+  },
+  {
+    "name": "咖啡狼烘豆坊",
+    "address": "安興路7號1樓",
+    "location": {
+      "lat": 24.9683547,
+      "lng": 121.5147489
+    }
+  },
+  {
+    "name": "參號倉庫咖啡 No.3 Cafe'",
+    "address": "力行路3號",
+    "location": {
+      "lat": 24.9644579,
+      "lng": 121.539542
+    }
+  },
+  {
+    "name": "Amo Cafe阿默咖啡_台北土城店",
+    "address": "忠承路109號",
+    "location": {
+      "lat": 24.9646414,
+      "lng": 121.4383678
+    }
+  },
+  {
+    "name": "moffee café 默啡咖啡館",
+    "address": "中山路三段86號",
+    "location": {
+      "lat": 25.0058675,
+      "lng": 121.4779037
+    }
+  },
+  {
+    "name": "CAFE!N 硬咖啡 板橋中山店",
+    "address": "新民街45號",
+    "location": {
+      "lat": 25.0108458,
+      "lng": 121.4638672
+    }
+  },
+  {
+    "name": "稼咖啡Jia Cafe Co-working space",
+    "address": "民族路129巷10號",
+    "location": {
+      "lat": 25.0083547,
+      "lng": 121.4676941
+    }
+  },
+  {
+    "name": "OUR Coffee 奧爾咖啡",
+    "address": "信義路25巷3號1樓",
+    "location": {
+      "lat": 25.0120151,
+      "lng": 121.5137132
+    }
+  },
+  {
+    "name": "BUNA CAF'E 布納咖啡館 中和公園館",
+    "address": "中安街85號",
+    "location": {
+      "lat": 25.0014761,
+      "lng": 121.5126447
+    }
+  },
+  {
+    "name": "咖啡印 Coffee in",
+    "address": "中正路1巷16弄23號",
+    "location": {
+      "lat": 25.0119147,
+      "lng": 121.4549598
+    }
+  },
+  {
+    "name": "Flying coffee-自家烘焙咖啡(不定期休假會在粉專公告)",
+    "address": "東園街73巷98號",
+    "location": {
+      "lat": 25.0263697,
+      "lng": 121.4995041
+    }
+  },
+  {
+    "name": "百特咖啡有限公司",
+    "address": "長安街377號",
+    "location": {
+      "lat": 25.0879517,
+      "lng": 121.4571536
+    }
+  },
+  {
+    "name": "烘咖啡",
+    "address": "中正路9號",
+    "location": {
+      "lat": 24.9933209,
+      "lng": 121.5030629
+    }
+  },
+  {
+    "name": "杯豆咖啡Baddog coffee/自烘/單品/手沖/手沖器材",
+    "address": "慶利街13號",
+    "location": {
+      "lat": 24.973608,
+      "lng": 121.439343
+    }
+  },
+  {
+    "name": "COFFEE MAKER",
+    "address": "東門街30-2號",
+    "location": {
+      "lat": 25.0081058,
+      "lng": 121.4580213
+    }
+  },
+  {
+    "name": "May i COFFEE you ? 美艾咖啡友",
+    "address": "銘德街31號",
+    "location": {
+      "lat": 25.0436771,
+      "lng": 121.4584568
+    }
+  },
+  {
+    "name": "BUNA CAF'E 布納咖啡館 新莊館",
+    "address": "中正路363號",
+    "location": {
+      "lat": 25.034686,
+      "lng": 121.4467313
+    }
+  },
+  {
+    "name": "箴咖啡Jean's Coffee House",
+    "address": "文化街40號",
+    "location": {
+      "lat": 24.9881985,
+      "lng": 121.4187136
+    }
+  },
+  {
+    "name": "Chase Dreams Coffee & Bakery",
+    "address": "學林路238號",
+    "location": {
+      "lat": 24.9495468,
+      "lng": 121.3811172
+    }
+  },
+  {
+    "name": "ViVi Cafe'咖啡豆專賣店",
+    "address": "中興街21號",
+    "location": {
+      "lat": 24.9903587,
+      "lng": 121.4208575
+    }
+  },
+  {
+    "name": "Charla Coffee",
+    "address": "大義路195號",
+    "location": {
+      "lat": 24.9452418,
+      "lng": 121.3777396
+    }
+  },
+  {
+    "name": "Q咖啡工作室｜咖啡豆專門店｜TISCA 全國杯測冠軍｜無訂位服務｜咖啡愛好者推薦｜Q COFFEE STUDIO",
+    "address": "南雅路493號",
+    "location": {
+      "lat": 24.9541163,
+      "lng": 121.345511
+    }
+  },
+  {
+    "name": "馬可手作珈琲 MK Coffee Roasters (樹林店)",
+    "address": "長壽街20號",
+    "location": {
+      "lat": 24.9937882,
+      "lng": 121.4231189
+    }
+  },
+  {
+    "name": "cama café 新莊中華店",
+    "address": "中華路一段70號",
+    "location": {
+      "lat": 25.0388583,
+      "lng": 121.4523548
+    }
+  },
+  {
+    "name": "i3東咖啡/新莊店/自家烘焙咖啡豆/咖啡豆批發",
+    "address": "號, No. 109公園一路",
+    "location": {
+      "lat": 25.0380847,
+      "lng": 121.4449179
+    }
+  },
+  {
+    "name": "源森咖啡（時間調整以FB、IG限動公告）",
+    "address": "四川路29巷46號一樓",
+    "location": {
+      "lat": 24.9950047,
+      "lng": 121.4550384
+    }
+  },
+  {
+    "name": "去哪咖啡 Kido Cafe 鶯歌店 ∥ 精品咖啡 ∥甜點 ∥教學 ∥咖啡豆 ∥下午茶∥ 鶯歌網美下午茶|人氣咖啡|網美咖啡廳|熱門咖啡館|特色輕食|咖啡廳推薦|咖啡教學|人氣甜點",
+    "address": "建國路108號鶯歌美食廣場2樓",
+    "location": {
+      "lat": 24.9543176,
+      "lng": 121.3532925
+    }
+  },
+  {
+    "name": "SuFu lab 書福咖啡館（公園店）",
+    "address": "中華路15巷11號",
+    "location": {
+      "lat": 24.9315559,
+      "lng": 121.3737415
+    }
+  },
+  {
+    "name": "Reversion cafe_反轉點.咖啡",
+    "address": "龍安路254巷1號",
+    "location": {
+      "lat": 25.0192882,
+      "lng": 121.4213196
+    }
+  },
+  {
+    "name": "鐵咖咖啡 Tika Coffee 義式手作窯烤Pizza",
+    "address": "中央路二段61巷30號1樓",
+    "location": {
+      "lat": 24.978438,
+      "lng": 121.443382
+    }
+  },
+  {
+    "name": "小宅子咖啡 shiaujhai.cafe",
+    "address": "文化路一段45巷1弄5號1樓",
+    "location": {
+      "lat": 25.0139166,
+      "lng": 121.460573
+    }
+  },
+  {
+    "name": "學而文創&ＣＡＦＥ",
+    "address": "大學路202號",
+    "location": {
+      "lat": 24.9469419,
+      "lng": 121.3725943
+    }
+  },
+  {
+    "name": "Coffee HABU Co. 咖啡哈巭",
+    "address": "文化路一段270巷3弄24號",
+    "location": {
+      "lat": 25.0207471,
+      "lng": 121.4682762
+    }
+  },
+  {
+    "name": "陋室咖啡 ROAST COFFEE",
+    "address": "民有街63號",
+    "location": {
+      "lat": 25.0266822,
+      "lng": 121.4651877
+    }
+  },
+  {
+    "name": "Halla cafe",
+    "address": "學成路155號",
+    "location": {
+      "lat": 24.9419257,
+      "lng": 121.3741222
+    }
+  },
+  {
+    "name": "豆肯莊園精品咖啡 TUCÁN Café (都凱國際有限公司)",
+    "address": "民族路139號",
+    "location": {
+      "lat": 25.007908,
+      "lng": 121.467714
+    }
+  },
+  {
+    "name": "GARAGE Cafe'",
+    "address": "荖阡坑路30號",
+    "location": {
+      "lat": 25.1293927,
+      "lng": 121.4050631
+    }
+  },
+  {
+    "name": "覓豆精品咖啡專賣",
+    "address": "中正路一段37-1號",
+    "location": {
+      "lat": 25.1767612,
+      "lng": 121.4253978
+    }
+  },
+  {
+    "name": "Eachday Coffee 每每咖啡 (自家烘焙工作室)",
+    "address": "中正路362號",
+    "location": {
+      "lat": 25.1743347,
+      "lng": 121.4342333
+    }
+  },
+  {
+    "name": "《致影》自烘精品咖啡豆/手沖/虹吸(請訊息預約)",
+    "address": "2樓, No. 6號文化三路一段632巷",
+    "location": {
+      "lat": 25.0767499,
+      "lng": 121.3720269
+    }
+  },
+  {
+    "name": "白光咖啡 White Light Coffee Roaster",
+    "address": "文化一路二段299號",
+    "location": {
+      "lat": 25.0855772,
+      "lng": 121.385311
+    }
+  },
+  {
+    "name": "兜麥咖啡 蘆洲店（寵物友善咖啡店）",
+    "address": "中原路1-3號",
+    "location": {
+      "lat": 25.083534,
+      "lng": 121.461624
+    }
+  },
+  {
+    "name": "燃候。Cafe",
+    "address": "魚寮路110號",
+    "location": {
+      "lat": 25.0589112,
+      "lng": 121.8221919
+    }
+  },
+  {
+    "name": "悠119客廳·咖啡·會館",
+    "address": "五號路119號",
+    "location": {
+      "lat": 25.1123059,
+      "lng": 121.8545648
+    }
+  },
+  {
+    "name": "山日比SomeBeans(咖啡專賣)",
+    "address": "太平路50號光復街",
+    "location": {
+      "lat": 25.0352501,
+      "lng": 121.8648818
+    }
+  },
+  {
+    "name": "凱博克北區烘豆冠軍｜法星自家烘焙咖啡Vita A Simple Cafe｜咖啡豆專賣店",
+    "address": "崇法街12號",
+    "location": {
+      "lat": 25.1285421,
+      "lng": 121.7647277
+    }
+  },
+  {
+    "name": "咖啡Cafe",
+    "address": "106縣道111號",
+    "location": {
+      "lat": 25.0234488,
+      "lng": 121.7226406
+    }
+  },
+  {
+    "name": "瑞格咖啡館四腳亭河岸店",
+    "address": "粗坑口路50-2號",
+    "location": {
+      "lat": 25.0988304,
+      "lng": 121.762403
+    }
+  },
+  {
+    "name": "正好cafe",
+    "address": "明里路166號",
+    "location": {
+      "lat": 25.1188291,
+      "lng": 121.8610973
+    }
+  },
+  {
+    "name": "CHLIV - Jiufen store",
+    "address": "輕便路59-1號",
+    "location": {
+      "lat": 25.1102348,
+      "lng": 121.8450594
+    }
+  },
+  {
+    "name": "親澤庭園咖啡",
+    "address": "16號",
+    "location": {
+      "lat": 25.0168121,
+      "lng": 121.8037684
+    }
+  },
+  {
+    "name": "老頹咖 GOT FLAVOR COFFEE",
+    "address": "輕便路131號",
+    "location": {
+      "lat": 25.1087102,
+      "lng": 121.8435727
+    }
+  },
+  {
+    "name": "創憶咖啡 C.M Coffee",
+    "address": "靜安路一段349號",
+    "location": {
+      "lat": 25.015513,
+      "lng": 121.6987514
+    }
+  },
+  {
+    "name": "凡不凡咖啡-信義打卡美食|熱門咖啡廳|基隆咖啡廳|基隆肉桂捲|正濱咖啡廳|基隆甜點",
+    "address": "教忠街156號1樓",
+    "location": {
+      "lat": 25.1377443,
+      "lng": 121.7794053
+    }
+  },
+  {
+    "name": "HWC黑沃咖啡 基隆東明店",
+    "address": "東明路65-1號1樓",
+    "location": {
+      "lat": 25.1275607,
+      "lng": 121.7625559
+    }
+  },
+  {
+    "name": "野事草店 Wild Herbs Gallery",
+    "address": "輕便路147號",
+    "location": {
+      "lat": 25.1071192,
+      "lng": 121.8417744
+    }
+  },
+  {
+    "name": "石讓咖啡",
+    "address": "瑞芳街93號",
+    "location": {
+      "lat": 25.1095903,
+      "lng": 121.8060224
+    }
+  },
+  {
+    "name": "斯陋咖啡在任爾基地",
+    "address": "中山路58號",
+    "location": {
+      "lat": 25.0311158,
+      "lng": 121.86727
+    }
+  },
+  {
+    "name": "水水弎栖_Dew Cafe",
+    "address": "中山路37號1樓",
+    "location": {
+      "lat": 25.0323562,
+      "lng": 121.8658629
+    }
+  },
+  {
+    "name": "游咖啡",
+    "address": "民生街35巷44號3樓",
+    "location": {
+      "lat": 25.1065219,
+      "lng": 121.8059052
+    }
+  },
+  {
+    "name": "Sip咖啡",
+    "address": "汽車路7-3號2樓",
+    "location": {
+      "lat": 25.1105963,
+      "lng": 121.8466518
+    }
+  },
+  {
+    "name": "教會咖啡",
+    "address": "民生街7號",
+    "location": {
+      "lat": 25.0688143,
+      "lng": 121.6601079
+    }
+  },
+  {
+    "name": "糸 - 咖啡豆專賣店 生活陶器 （營業時間請看IG公告）",
+    "address": "福德二路67號1F",
+    "location": {
+      "lat": 25.0667885,
+      "lng": 121.6337744
+    }
+  },
+  {
+    "name": "Ramble Cafe漫步藍咖啡-汐止龍安店",
+    "address": "龍安路1號1樓",
+    "location": {
+      "lat": 25.0643115,
+      "lng": 121.6563839
+    }
+  },
+  {
+    "name": "咖啡172號(自家烘焙)",
+    "address": "汐平路一段172號",
+    "location": {
+      "lat": 25.0663899,
+      "lng": 121.6899628
+    }
+  },
+  {
+    "name": "黑王子咖啡館",
+    "address": "南陽街211號雍和台北園區1樓",
+    "location": {
+      "lat": 25.0576805,
+      "lng": 121.6267375
+    }
+  },
+  {
+    "name": "NEDA COFFEE",
+    "address": "六張街21號1樓",
+    "location": {
+      "lat": 25.0706548,
+      "lng": 121.495302
+    }
+  },
+  {
+    "name": "ZZZ Coffee Shops",
+    "address": "中山路二段205號",
+    "location": {
+      "lat": 25.002529,
+      "lng": 121.4998328
+    }
+  },
+  {
+    "name": "法緹絲 咖啡體驗室",
+    "address": "中山路二段351號 3號樓之12",
+    "location": {
+      "lat": 25.0030602,
+      "lng": 121.4908441
+    }
+  },
+  {
+    "name": "肆拾肆號館",
+    "address": "福和路198巷6號",
+    "location": {
+      "lat": 25.0082095,
+      "lng": 121.520187
+    }
+  },
+  {
+    "name": "肥美號 ｜精品咖啡廳 ｜自烘咖啡館（Fat me cafe roaster)",
+    "address": "連城路383號1樓",
+    "location": {
+      "lat": 24.9960802,
+      "lng": 121.4867015
+    }
+  },
+  {
+    "name": "HODO CAFE’ & DINER-林口冰滴咖啡|冷萃咖啡|咖啡店|咖啡豆|場地租用|精品咖啡",
+    "address": "文化三路一段632巷6號1樓",
+    "location": {
+      "lat": 25.0767607,
+      "lng": 121.3720382
+    }
+  },
+  {
+    "name": "智造所珈琲/咖啡/inovmaker cafe/手沖咖啡專門店/精品咖啡/花濾杯沖煮/咖啡教學/WiFi",
+    "address": "四維路245巷16號",
+    "location": {
+      "lat": 25.0749209,
+      "lng": 121.381982
+    }
+  },
+  {
+    "name": "伙伴咖啡‧自家烘焙咖啡館",
+    "address": "學府路60-12號",
+    "location": {
+      "lat": 25.1701866,
+      "lng": 121.4487538
+    }
+  },
+  {
+    "name": "【南参陸咖啡】自家烘焙/咖啡豆批發/精品咖啡",
+    "address": "和平街36號1 樓",
+    "location": {
+      "lat": 24.9904803,
+      "lng": 121.5091679
+    }
+  },
+  {
+    "name": "恬沁咖啡 Tian Cin Cafe Roasters",
+    "address": "仁愛路一段272巷18號",
+    "location": {
+      "lat": 25.0762567,
+      "lng": 121.3931817
+    }
+  },
+  {
+    "name": "參支蟲咖啡館THREE LARVAE CAFE公休日請洽IG",
+    "address": "中山路241號",
+    "location": {
+      "lat": 25.0792757,
+      "lng": 121.3858215
+    }
+  },
+  {
+    "name": "安妮美式咖啡館(Anne Time)",
+    "address": "觀海大道36號全家便利商店對面停車場內",
+    "location": {
+      "lat": 25.1602985,
+      "lng": 121.4318221
+    }
+  },
+  {
+    "name": "厚癮咖啡 AROMATIC COFFEE",
+    "address": "中山路二段330號",
+    "location": {
+      "lat": 25.1499735,
+      "lng": 121.4043086
+    }
+  },
+  {
+    "name": "D'or Cafe",
+    "address": "五工路66號1樓",
+    "location": {
+      "lat": 25.063652,
+      "lng": 121.4583793
+    }
+  },
+  {
+    "name": "Ming's Coffee Playroom 瞇瞇眼自家烘焙咖啡館",
+    "address": "英專路214號",
+    "location": {
+      "lat": 25.1730026,
+      "lng": 121.4495113
+    }
+  },
+  {
+    "name": "Luna coffee",
+    "address": "中正路179號",
+    "location": {
+      "lat": 25.1712324,
+      "lng": 121.4384172
+    }
+  },
+  {
+    "name": "江南咖啡 JN CAFE",
+    "address": "竹林一路",
+    "location": {
+      "lat": 25.0851411,
+      "lng": 121.3870146
+    }
+  },
+  {
+    "name": "ooo cafe 圓滾滾",
+    "address": "民權一街17巷16號站2號出口捷運",
+    "location": {
+      "lat": 25.1364708,
+      "lng": 121.4593109
+    }
+  },
+  {
+    "name": "Antee Cafe 安緹手沖咖啡館",
+    "address": "學府路61號",
+    "location": {
+      "lat": 25.1695948,
+      "lng": 121.4481345
+    }
+  },
+  {
+    "name": "彼爾咖啡館Beel Cafe",
+    "address": "思源路333號",
+    "location": {
+      "lat": 25.049704,
+      "lng": 121.459549
+    }
+  }
+]
