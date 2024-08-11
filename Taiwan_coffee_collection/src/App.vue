@@ -1,13 +1,29 @@
-<script setup>
-import { RouterView } from 'vue-router'
+<script>
+
+
+export default{
+  methods: {
+    //用select選單切換地區 渲染資料
+    changeRoute(e) {
+      this.$router.push("/" + e.target.value);
+    },
+  },
+}
+
 </script>
 
 <template>
   <header>
     <h1>台灣咖啡店家收集錄</h1>
+    <select name="field" id="field" v-on:change="changeRoute($event)">
+      <option selected>請選擇地區</option>
+      <option value="meowli">苗栗</option>
+      <option value="keelung">基隆</option>
+    </select>
   </header>
-
+  <!-- 後續確認好資料能正確渲染到正確位置後再加入其他地區選項 -->
   <RouterView />
+  
 
   <footer>
 
@@ -29,16 +45,35 @@ import { RouterView } from 'vue-router'
 <style scoped lang="scss">
 @import './assets/main.scss';
 
+.fade-enter-active,
+.fade-leave-active{
+  transition: opacity 2s;
+}
+
+.fade-enter,
+.fade-leave-to{
+  opacity:0;
+}
 
 header {
   width: 100%;
-  text-align: center;
   background-color: white;
   color: var(--main-font-color);
-
+  display: flex;
+  justify-content: center;
   padding-top: 1vh;
   padding-bottom: 1vh;
-  backdrop-filter: blur(30px);
+
+  h1{
+    margin-right: 1vw;
+  }
+
+  select{
+    width: 10vw;
+
+    border: 1px solid burlywood;
+    padding: 10px 10px;
+  }
 
 }
 
@@ -53,10 +88,7 @@ footer {
   padding-bottom: 5vh;
 
   .SocialButton {
-
-
     padding: 10px;
-
     a {
       padding: 10px;
       @include IconUrl-button(1, "Social_Icon_brown", "facebook_brown.png", 32, 32);
@@ -65,8 +97,5 @@ footer {
       @include IconUrl-button(4, "Social_Icon_brown", "line_brown.png", 32, 32);
     }
   }
-
-
-
 }
 </style>

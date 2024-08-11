@@ -6,7 +6,14 @@ const router = createRouter({
     {
       path: '/',
       name: 'datalist',
-      component: () => import('../views/datalistView.vue')
+      component: () => import('../views/datalistView.vue'),
+      children:[
+        {
+          path:'meowli',
+          component:()=>import('../views/MeowLi.vue')
+        }
+
+      ],
     }
   ]
 })

@@ -24,7 +24,7 @@
 
 body {
   max-width: 1920px;
-  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
   transition:
     color 0.5s,
     background-color 0.5s;
